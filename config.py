@@ -1,0 +1,6 @@
+customhost = "employee.cpkeltmlf1bb.ap-south-1.rds.amazonaws.com"
+customuser = "mindcrusaders"
+custompass = "mindcrusaders123"
+customdb = "employee"
+custombucket = "pankajemployee"
+customregion = "ap-south-1"
